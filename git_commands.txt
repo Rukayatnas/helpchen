@@ -1,0 +1,21 @@
+LIST OF 20 GIT COMMANDS AND THEIR FUNCTIONS:
+git init - Initializes a new Git repository.
+git clone - Clones a repository into a new directory.
+git add - Adds files to the staging area.
+git commit - Records changes to the repository.
+git status - Shows the status of changes.
+git push - Uploads local repository content to a remote repository.
+git pull - Fetches and merges changes from a remote repository to the local repository.
+git branch - Lists, creates, or deletes branches.
+git checkout - Switches branches or restores working tree files.
+git merge - Joins two or more development histories together.
+git log - Shows commit logs.
+git diff - Shows changes between commits, commit and working tree, etc.
+git reset - Resets current HEAD to the specified state.
+git revert - Reverts changes committed.
+git stash - Temporarily shelves changes.
+git fetch - Downloads objects and refs from another repository.
+git remote - Manages sets of tracked repositories.
+git tag - Creates, lists, deletes, or verifies a tag object signed with GPG.
+git config - Sets configuration values for the user.
+git blame - Shows what revision and author last modified each line of a file.
